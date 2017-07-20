@@ -605,6 +605,8 @@ int jogo()
 			SDL_BlitSurface(ganhou, NULL, tela, NULL);
 			SDL_UpdateWindowSurface(window); // essa linha essencial, sem ela nada é atualizado na tela
 			SDL_Delay(3000);
+			Jogador *j1 = criarJogador(nj,score);
+			inserirOrdenado(lista,j1);
 			loop = 1;
 		}
 	}
@@ -680,7 +682,6 @@ void carregarSurfaces()
 	treze 	 = IMG_Load("Imagens/13.png");
 	quatorze = IMG_Load("Imagens/14.png");
 	garrinha = IMG_Load("Imagens/mao_com_sangue.png");
-	vidas 	 = IMG_Load("Imagens/3vidas.png");
 	audio 	 = IMG_Load("Imagens/mute.png");
 
 
@@ -749,10 +750,6 @@ void carregarSurfaces()
 	if(!fundoScore)
 	{
 		printf("Nao foi possivel carregar imagem fundoScore\n");
-	}
-	if(!vidas)
-	{
-		printf("Nao foi possivel carregar imagem vidas\n");
 	}
 	if(!fundoColocarNome)
 	{
