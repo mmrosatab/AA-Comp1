@@ -2,7 +2,7 @@
 
 Este repositório se destina a Atividade Acadêmica de Computação I. O trabalho consiste em um Jogo no estilo Tower Defense desenvolvido em C e SDL2.
 
-####### Colaboradores do projetos
+## Colaboradores do projetos
 
 - Andressa Oliveira (Desenvolvedor2) Github User: a-oliveira
 - Thiago Frazão (Game Design) Github User: ThiagoFrazao
@@ -10,7 +10,7 @@ Este repositório se destina a Atividade Acadêmica de Computação I. O trabalh
 ![img1](https://user-images.githubusercontent.com/9852787/57247781-20e5ca80-7017-11e9-8a3b-287b059d5a16.png)
 ![img2](https://user-images.githubusercontent.com/9852787/57247783-20e5ca80-7017-11e9-8be0-e58e8146c491.png)
 
-####### Para executar o jogo deve-se instalar a biblioteca SDL2 e alguns pacotes auxiliares.
+## Para executar o jogo deve-se instalar a biblioteca SDL2 e alguns pacotes auxiliares.
 
 Instalar SDL2 no Linux
 
