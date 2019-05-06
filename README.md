@@ -1,3 +1,3 @@
 # AACOMPI
 
-Atividade Acadêmica de Computação 1 - UFRRJ
+Este repositório se destina a Atividade Acadêmica de Computação I. O trabalho consiste em um Jogo no estilo "" desenvolvido em C e SDL2.
