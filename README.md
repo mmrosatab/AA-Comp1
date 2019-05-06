@@ -18,15 +18,15 @@ Instalar SDL2 no Linux
 
 Instalar pacotes adicionais SDL2
 
-- ttf
-sudo apt-get install libsdl2-ttf-2.0-0 && sudo apt-get install libsdl2-ttf-dev && sudo apt-get install libsdl2-ttf-dbg
+ttf
+- sudo apt-get install libsdl2-ttf-2.0-0 && sudo apt-get install libsdl2-ttf-dev && sudo apt-get install libsdl2-ttf-dbg
 
-- mixer
-sudo apt-get install libsdl2-mixer-2.0-0 && sudo apt-get install libsdl2-mixer-dbg && sudo apt-get install libsdl2-mixer-dev
+mixer
+- sudo apt-get install libsdl2-mixer-2.0-0 && sudo apt-get install libsdl2-mixer-dbg && sudo apt-get install libsdl2-mixer-dev
 
-- gfx
-sudo apt-get install libsdl2-gfx-1.0-0 && sudo apt-get install libsdl2-gfx-dev && sudo apt-get install libsdl2-gfx-dbg
+gfx
+- sudo apt-get install libsdl2-gfx-1.0-0 && sudo apt-get install libsdl2-gfx-dev && sudo apt-get install libsdl2-gfx-dbg
 
-- image
-sudo apt-get install libsdl2-image-2.0-0 && sudo apt-get install libsdl2-image-dbg && sudo apt-get install libsdl2-image-dev 
+image
+- sudo apt-get install libsdl2-image-2.0-0 && sudo apt-get install libsdl2-image-dbg && sudo apt-get install libsdl2-image-dev 
 
