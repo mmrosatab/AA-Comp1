@@ -14,7 +14,7 @@ Para executar o jogo deve-se instalar a biblioteca SDL2 e alguns pacotes auxilia
 
 - Instalar SDL2 no Linux
 
-sudo apt-get install libsdl2-dev && sudo apt-get install libsdl2-dbg && sudo apt-get install libsdl2-dev 
+- sudo apt-get install libsdl2-dev && sudo apt-get install libsdl2-dbg && sudo apt-get install libsdl2-dev 
 
 - Instalar pacotes adicionais SDL2
 
