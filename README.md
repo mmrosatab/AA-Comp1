@@ -1,2 +1,3 @@
-# AA-Comp1
+# AACOMPI
+
 Atividade Acadêmica de Computação 1 - UFRRJ
