@@ -34,8 +34,8 @@ image
 
 - Compilação
 
-Para compilar o jogo use : gcc jogo.c -o jogo -lSDL2 -lSDL2_image -lSDL2_ttf -lSDL2_mixer -lSDL2_gfx -lm
+Para compilar o jogo use: gcc jogo.c -o jogo -lSDL2 -lSDL2_image -lSDL2_ttf -lSDL2_mixer -lSDL2_gfx -lm
 
 - Execução
 
-Para executar o jogo use : ./jogo
+Para executar o jogo use: ./jogo
