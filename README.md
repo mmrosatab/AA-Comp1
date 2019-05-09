@@ -30,3 +30,12 @@ gfx
 image
 - sudo apt-get install libsdl2-image-2.0-0 && sudo apt-get install libsdl2-image-dbg && sudo apt-get install libsdl2-image-dev 
 
+##### Compilação e execução
+
+- Compilação
+
+Para compilar o jogo use : gcc jogo.c -o jogo -lSDL2 -lSDL2_image -lSDL2_ttf -lSDL2_mixer -lSDL2_gfx -lm
+
+- Execução
+
+Para executar o jogo use : ./jogo
