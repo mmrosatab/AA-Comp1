@@ -4,8 +4,10 @@ Este repositório se destina a Atividade Acadêmica de Computação I da UFRRJ. 
 
 #### Colaboradores do projeto
 
-- Andressa Oliveira (Desenvolvedor2) Github User: a-oliveira
-- Thiago Frazão (Game Design) Github User: ThiagoFrazao
++ [Andressa Oliveira](https://github.com/a-oliveira) (Desenvolvedor2)
+
++ [Thiago Frazão](https://github.com/ThiagoFrazao) (Game Design)
+
 
 ![img1](https://user-images.githubusercontent.com/9852787/57247781-20e5ca80-7017-11e9-8a3b-287b059d5a16.png)
 ![img2](https://user-images.githubusercontent.com/9852787/57247783-20e5ca80-7017-11e9-8be0-e58e8146c491.png)
